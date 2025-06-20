@@ -23,6 +23,8 @@ There were a lot of firsts in this project. It was my first time using Fusion 36
 
 ## 📸 Images
 
-![Top View](images/top-view.jpg)  
-![Side View](images/side-view.jpg)  
-![PCB Layout](images/pcb-layout.jpg)
+![schematic](folder/schematic.png)  
+![board](folder/board.png)  
+![cad](folder/cad.png)
+![new](folder/new.png)
+![topnew](folder/topview.png)
