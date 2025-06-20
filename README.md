@@ -1,8 +1,10 @@
 # Macropad
+---
 
 ## 🧠 Inspiration
 
 This was my first time building a macropad, and I wanted to create something small and simple to use. I’ve always liked to play games, and I thought: why not make a compact little WASD/arrow keys? 
+
 ---
 
 ## 🚧 Challenges
